@@ -1,0 +1,99 @@
+* 
+{
+margin: 0; /*убрать все отступы*/
+padding: 0; /*убрать все поля*/
+}
+/*Стили для всей страницы*/
+body 
+{
+background: #F5F5F5; /*параметры фона страницы*/
+font-family: "Bookman Old Style", serif;/*настройка шрифта*/
+}
+.news
+{
+	width: 1000px;
+	margin: 50px auto;
+	border-radius: 2px;
+	background:white;
+	box-shadow: 0 0 10px rgba(0,0,0,0.5);
+}
+.news_img img
+{
+	width: 100%;
+}
+/*стили блока галерея*/
+.news_title
+{
+	font-size: 24px;
+	font-weight: bold;
+	text-transform: uppercase;
+	letter-spacing: 2pt;
+	word-spacing: 1.8pt;
+	padding: 10px;
+	margin-top: 20px;
+}
+.news_date
+{
+	font-size: 10px;
+	font-variant: small-caps;
+	letter-spacing: 0pt;
+	word-spacing: 1.8pt;
+	color:#DCDCDC;
+	padding: 10px;
+}
+.news_content 
+{
+	
+	font-size: 16px;
+	font-variant: small-caps;
+	text-align: justify;
+	letter-spacing: 0pt;
+	word-spacing: 1.8pt;
+	padding: 10px;
+}
+.news_content p,h1
+{
+	padding: 10px;
+}
+#goBack
+{
+	width: 150px;
+	height: 30px;
+	background-color: white;
+	text-align: center;
+	position:relative;
+	top: 10px;
+	margin: auto;
+	border-radius: 50px;
+	box-shadow: 0 0 10px rgba(0,0,0,0.5);
+	font-size: 18pt;
+	padding: 15px;
+
+}
+#goBack a
+{
+	text-decoration: none;
+	color:black;
+}
+#goBack:hover
+{
+	background-color: lightblue;
+}
+.news_begin
+{
+	font-size: 10px;
+	font-variant: small-caps;
+	letter-spacing: 0pt;
+	word-spacing: 1.8pt;
+	color:#DCDCDC;
+	padding: 10px;
+}
+.news_begin a
+{
+	text-decoration: none;
+	color:#DCDCDC;
+}
+.news_begin a:hover
+{
+	color:black;
+}

@@ -1,0 +1,10 @@
+@font-face {
+  font-family: 'AmazS.T.A.L.K.E.R.v.3.0';
+  src: url(./AmazS.T.A.L.K.E.R.v.3.0.eot);
+  src: url(./AmazS.T.A.L.K.E.R.v.3.0.eot?#iefix) format('embedded-opentype'),
+       url(./AmazS.T.A.L.K.E.R.v.3.0.otf) format('otf'),
+       url(./AmazS.T.A.L.K.E.R.v.3.0.svg#AmazS.T.A.L.K.E.R.v.3.0) format('svg'),
+       url(./AmazS.T.A.L.K.E.R.v.3.0.ttf) format('truetype'),
+       url(./AmazS.T.A.L.K.E.R.v.3.0.woff) format('woff'),
+       url(./AmazS.T.A.L.K.E.R.v.3.0.woff2) format('woff2');
+}

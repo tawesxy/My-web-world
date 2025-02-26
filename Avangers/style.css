@@ -1,0 +1,37 @@
+body{
+    background: url(../Avangers/img/bg.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+    font-family: Verdana, sans-serif;
+}
+div{
+    max-width: 1000px;
+    margin: auto;
+    background: rgba(255, 255, 255, 0.5);
+    padding: 30px;
+}
+img{
+    display: block;
+    margin: auto;
+    width: 100%;
+    margin-bottom: 20px;
+}
+h1{
+    text-align: center;
+    color: #333;
+    margin-bottom: 20px;
+    font-size: 35px;
+}
+p{
+    text-align: justify;
+}
+h2{
+    margin-left: 50px;
+}
+audio{
+    display: block;
+    margin-top: 20px;
+    margin: auto;
+    width: 100%;
+}
